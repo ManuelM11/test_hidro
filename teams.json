@@ -1,0 +1,14 @@
+[
+  {
+    "equipo": "H1",
+    "tipo": "Hidro",
+    "capacidad_tpd": 60.0,
+    "campo_inicial": "SANTA MARGARITA"
+  },
+  {
+    "equipo": "S1",
+    "tipo": "Sadema",
+    "capacidad_tpd": 108.0,
+    "campo_inicial": "SANTA MARGARITA"
+  }
+]
